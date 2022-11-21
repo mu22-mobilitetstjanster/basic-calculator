@@ -7,4 +7,7 @@ public class Application {
 
     // Level up, gör så att varje operation kan utföra operationen på ett godtyckligt antal tal
   }
+  private static int multiplyNumbers(int firstNumber, int secondNumber) {
+    return firstNumber * secondNumber;
+  }
 }
