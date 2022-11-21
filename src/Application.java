@@ -6,5 +6,9 @@ public class Application {
     //      sub(2, 5) // -3
 
     // Level up, gör så att varje operation kan utföra operationen på ett godtyckligt antal tal
+    int x = 5;
+    int z = 10;
+    int sum = x + z;
+    System.out.println(sum);
   }
 }
